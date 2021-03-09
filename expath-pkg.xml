@@ -1,0 +1,14 @@
+<package xmlns="http://expath.org/ns/pkg"
+         name="http://www.xqdoc.org/1.0/display"
+         abbrev="xqdoc-display"
+         version="1.0"
+         spec="1.0">
+
+   <title>xqdoc dispaly library</title>
+
+   <xquery>
+      <namespace>http://www.xqdoc.org/1.0/display</namespace>
+      <file>xqdoc-display.xqy</file>
+   </xquery>
+
+</package>
